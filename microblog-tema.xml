@@ -80,13 +80,11 @@
       font-size: 13px;
       color: #aaa;
       padding: 30px 0;
+      line-height: 1.6;
     }
-
-   img{
-
+    img {
       border-radius: 8px;
-
-}
+    }
 
   ]]></b:skin>
 </head>
